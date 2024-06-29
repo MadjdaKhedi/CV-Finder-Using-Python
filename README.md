@@ -14,4 +14,4 @@
 - The directory containing the CVs is specified.
 - The CVs are processed and their content is indexed.
 - The available keywords are printed for the user.
-- A loop allows the user to search for CVs by entering the number corresponding to a keyword. The results are displayed, or the user is informed if no CVs contain the keyword. The loop continues until the user click on 'quit'.
+- A loop allows the user to search for CVs by entering the number corresponding to a keyword. The results are displayed, or the user is informed if no CVs contain the keyword. The loop continues until the user click on 'Exit'.
