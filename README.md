@@ -1,4 +1,5 @@
-# CV-Finder-Using-Python
+# CV-Finder
+(Python and Jupyter Notebook versions)
 
 # The solution will consist of :
 ### Imports and Constants: The necessary modules are imported and the list of keywords to search for in CVs is defined.
